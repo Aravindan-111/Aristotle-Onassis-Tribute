@@ -1,8 +1,8 @@
 # A Tribute to Aristotle Onassis
 
-## [Click Here]() to view the deployed site.
+## [Click Here](https://aristotle-onassis-tribute.netlify.app/) to view the deployed site.
 
-### Tools Used
+### Tools Used :
 
 -HTML
 -CSS
